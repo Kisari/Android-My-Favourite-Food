@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.View.FoodView">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/foodIllustration"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/food_image_view"
+            android:scaleType="fitXY"
+            tools:ignore="ImageContrastCheck" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingHorizontal="16dp">
+
+
+            <RelativeLayout
+                android:id="@+id/titleRow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="16dp">
+
+                <TextView
+                    android:id="@+id/foodTitle"
+                    style="@style/TextAppearance.AppCompat.Title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="32dp"
+                    android:text="@string/food_title" />
+
+                <ImageView
+                    android:id="@+id/favouriteIcon"
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerInParent="true"
+                    android:contentDescription="@string/favourite"
+                    android:src="@drawable/favourite" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/foodAddress"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:text="@string/food_address" />
+
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/badgeListView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"/>
+
+            <TextView
+                android:id="@+id/foodInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:textStyle="bold"
+                android:gravity="start"
+                android:layout_marginTop="16dp"
+                android:text="@string/about_us" />
+
+            <TextView
+                android:id="@+id/foodContent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/TextAppearance.AppCompat.Body1"
+                android:gravity="start"
+                android:text="@string/food_content"
+                android:layout_marginBottom="16dp"/>
+        </LinearLayout>
+
+        <com.google.android.gms.maps.MapView
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:id="@+id/mapView"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginBottom="36dp"
+            android:contentDescription="@string/map_view"/>
+
+    </LinearLayout>
+</ScrollView>

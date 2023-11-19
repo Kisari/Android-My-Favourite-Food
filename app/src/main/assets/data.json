@@ -1,0 +1,1030 @@
+{
+  "data": [
+    {
+      "id": "0274",
+      "building_id": "152",
+      "name": "VEDA Rehabilitation Services",
+      "short_name": "veda_rehabilitation_services",
+      "description": "Located inside the Rehabilitation Sciences builing at 500 University Avenue, Veda offers Indian takeout. Catering available 416-961-9797. Menu includes hot meals and snacks like curries, sandwiches, pizzas & samosas. Halal & Vegan options available.",
+      "url": "http://www.vedatakeout.com/index.php",
+      "tags": [
+        "snacks",
+        "beverage",
+        "lug a mug",
+        "microwave",
+        "indian",
+        "samosa",
+        "curry"
+      ],
+      "image": "https://static.wixstatic.com/media/11062b_e6282175464c4e93a5e38965bef1c361~mv2.jpg/v1/fill/w_1148,h_1470,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_e6282175464c4e93a5e38965bef1c361~mv2.jpg",
+      "campus": "UTSG",
+      "lat": 43.65541,
+      "lng": -79.38912,
+      "address": "500 University Ave, Toronto, ON M5G 1V7",
+      "hours": {
+        "sunday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "monday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "tuesday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "wednesday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "thursday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "friday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "saturday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        }
+      }
+    },
+    {
+      "id": "0276",
+      "building_id": "068A",
+      "name": "Café AC",
+      "short_name": "ac_cafe",
+      "description": "Café with seating. Serving Grab'N'Go sandwiches and snacks, as well as a variety of beverages including . Located on the lower level of the Athletic Centre.",
+      "url": "https://ueat.io/en/",
+      "tags": [
+        "coffee",
+        "beverage",
+        "muffins",
+        "cookies",
+        "grabngo",
+        "ac"
+      ],
+      "image": "https://ueat.io/wp-content/uploads/2021/03/UEAT-vs-Marketplaces-600x500.png",
+      "campus": "UTSG",
+      "lat": 43.66292,
+      "lng": -79.40131,
+      "address": "55 Harbord St, Toronto, ON M5S 2W6",
+      "hours": {
+        "sunday": {
+          "closed": false,
+          "open": 32400,
+          "close": 61200
+        },
+        "monday": {
+          "closed": false,
+          "open": 25200,
+          "close": 75600
+        },
+        "tuesday": {
+          "closed": false,
+          "open": 25200,
+          "close": 75600
+        },
+        "wednesday": {
+          "closed": false,
+          "open": 25200,
+          "close": 75600
+        },
+        "thursday": {
+          "closed": false,
+          "open": 25200,
+          "close": 75600
+        },
+        "friday": {
+          "closed": false,
+          "open": 25200,
+          "close": 75600
+        },
+        "saturday": {
+          "closed": false,
+          "open": 32400,
+          "close": 61200
+        }
+      }
+    },
+    {
+      "id": "0309",
+      "building_id": "101",
+      "name": "Café Reznikoff",
+      "short_name": "cafe_reznikoff",
+      "description": "Café Reznikoff’s comfortable couches and large windows make it a great communal space for group meetings and coffee breaks. You’re welcome to enjoy great quality coffee, fresh sandwiches, baked goods and soups.\n\n\n",
+      "url": "https://www.yelp.ca/biz/caf%C3%A9-reznikoff-toronto-3",
+      "tags": [
+        "cafe",
+        "muffins",
+        "coffee",
+        "uc"
+      ],
+      "image": "https://www.uc.utoronto.ca/sites/default/files/styles/scale_width_500/public/assets/images/reznikoff.jpg?itok=tEWJycwM",
+      "campus": "UTSG",
+      "lat": 43.66309,
+      "lng": -79.39773,
+      "address": "75 St. George Street, Toronto ON M5S 2E5",
+      "hours": {
+        "sunday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "monday": {
+          "closed": false,
+          "open": 27000,
+          "close": 64800
+        },
+        "tuesday": {
+          "closed": false,
+          "open": 27000,
+          "close": 64800
+        },
+        "wednesday": {
+          "closed": false,
+          "open": 27000,
+          "close": 64800
+        },
+        "thursday": {
+          "closed": false,
+          "open": 27000,
+          "close": 64800
+        },
+        "friday": {
+          "closed": false,
+          "open": 27000,
+          "close": 54000
+        },
+        "saturday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        }
+      }
+    },
+    {
+      "id": "0311",
+      "building_id": "158",
+      "name": "Chestnut Tree",
+      "short_name": "chestnut_tree",
+      "description": "Visit the newly refurbished dining hall. This all-you-care-to-eat facility offers 15 food stations serving diverse and ethnic food daily! Dine on fresh, local and sustainable certified food, and explore flavours from around the world!",
+      "url": "https://www.chestnuttreepubwednesbury.co.uk/",
+      "tags": [
+        "chestnut",
+        "dining hall",
+        "breakfast",
+        "lunch",
+        "dinner",
+        "all you care to eat"
+      ],
+      "image": "https://marstons.azureedge.net/media/581620/mar136_cw_christmas23_phase-3_carousel_22.jpg?anchor=center&mode=crop&width=766&height=450&rnd=&quality=80",
+      "campus": "UTSG",
+      "lat": 43.65426,
+      "lng": -79.3852,
+      "address": "89 Chestnut Street, Toronto, ON M5G 1R1",
+      "hours": {
+        "sunday": {
+          "closed": false,
+          "open": 25200,
+          "close": 72000
+        },
+        "monday": {
+          "closed": false,
+          "open": 25200,
+          "close": 72000
+        },
+        "tuesday": {
+          "closed": false,
+          "open": 25200,
+          "close": 72000
+        },
+        "wednesday": {
+          "closed": false,
+          "open": 25200,
+          "close": 72000
+        },
+        "thursday": {
+          "closed": false,
+          "open": 25200,
+          "close": 72000
+        },
+        "friday": {
+          "closed": false,
+          "open": 25200,
+          "close": 72000
+        },
+        "saturday": {
+          "closed": false,
+          "open": 25200,
+          "close": 72000
+        }
+      }
+    },
+    {
+      "id": "0312",
+      "building_id": "064",
+      "name": "Second Cup Grad Room",
+      "short_name": "grad_room_second_cup",
+      "description": "Cheesecakes, croissants, cupcakes, oh my. Accompany your treat with some fair trade coffee and tea, as Second Cup offers this sustainable practice. If your sweet tooth happens to be acting up, come by this Second Cup!",
+      "url": "https://secondcup.com/trouver-un-cafe/",
+      "tags": [
+        "grad",
+        "coffee",
+        "cookies",
+        "muffins",
+        "beverage"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/e9/f3/57/17.jpg",
+      "campus": "UTSG",
+      "lat": 43.66332,
+      "lng": -79.40182,
+      "address": "66 Harbord Street, Toronto, ON M5S 1G2",
+      "hours": {
+        "sunday": {
+          "closed": false,
+          "open": 32400,
+          "close": 61200
+        },
+        "monday": {
+          "closed": false,
+          "open": 25200,
+          "close": 68400
+        },
+        "tuesday": {
+          "closed": false,
+          "open": 25200,
+          "close": 68400
+        },
+        "wednesday": {
+          "closed": false,
+          "open": 25200,
+          "close": 68400
+        },
+        "thursday": {
+          "closed": false,
+          "open": 25200,
+          "close": 68400
+        },
+        "friday": {
+          "closed": false,
+          "open": 25200,
+          "close": 68400
+        },
+        "saturday": {
+          "closed": false,
+          "open": 32400,
+          "close": 61200
+        }
+      }
+    },
+    {
+      "id": "0313",
+      "building_id": "009",
+      "name": "Hard Hat Cafe",
+      "short_name": "hard_hat_cafe",
+      "description": "Located in the basement of Sandford Fleming, this cafe is owned and operated by the Engineering Society. Offerings include coffee, baked goods, pizza, frozen entrees, beverages and snacks.",
+      "url": "https://www.hardhatcafect.com/",
+      "tags": [
+        "engsoc",
+        "skule",
+        "pit stop",
+        "sandford"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-nlTn7WBCD6yz8cll9WgmTc5F4BN-j6Lt0gnDFza&s",
+      "campus": "UTSG",
+      "lat": 43.66005,
+      "lng": -79.39508,
+      "address": "10 King's College Road, Toronto, ON M5S 3G4",
+      "hours": {
+        "sunday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "monday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "tuesday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "wednesday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "thursday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "friday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "saturday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        }
+      }
+    },
+    {
+      "id": "0314",
+      "building_id": "101",
+      "name": "Howard Ferguson Dining Hall",
+      "short_name": "howard_ferguson_dining_hall",
+      "description": "This contemporary cafeteria-style serves breakfast, lunch and dinner. Selections include a variety of beverages, snacks, and entrees prepared to your liking. Closed for the summer.",
+      "url": "https://www.uc.utoronto.ca/students-current-students-food-howard-ferguson-dining-hall",
+      "tags": [
+        "uc",
+        "morrison",
+        "dining",
+        "lfp"
+      ],
+      "image": "https://www.uc.utoronto.ca/sites/default/files/styles/scale_width_500/public/assets/images/grill_0.jpg?h=b3322ac3&itok=vNZzGgPx",
+      "campus": "UTSG",
+      "lat": 43.66322,
+      "lng": -79.39718,
+      "address": "75 St. George St, Toronto, ON M5S 2E5",
+      "hours": {
+        "sunday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "monday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "tuesday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "wednesday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "thursday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "friday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "saturday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        }
+      }
+    },
+    {
+      "id": "0315",
+      "building_id": "132",
+      "name": "Innis Cafe",
+      "short_name": "innis_cafe",
+      "description": "Innis Cafe is a family-run operation. It is located in the west wing of Innis College. Seating is available.",
+      "url": "https://www.wallpaper.com/travel/south-korea/jeju-island/restaurants/innisfree-cafe",
+      "tags": [
+        "innis",
+        "coffee",
+        "snacks"
+      ],
+      "image": "https://cdn.mos.cms.futurecdn.net/jcpWzXRwjL5QD4M4UAhtz-1920-80.jpg.webp",
+      "campus": "UTSG",
+      "lat": 43.6655,
+      "lng": -79.39974,
+      "address": "2 Sussex Avenue, Toronto, ON M5S 1J5",
+      "hours": {
+        "sunday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "monday": {
+          "closed": false,
+          "open": 28800,
+          "close": 57600
+        },
+        "tuesday": {
+          "closed": false,
+          "open": 28800,
+          "close": 57600
+        },
+        "wednesday": {
+          "closed": false,
+          "open": 28800,
+          "close": 57600
+        },
+        "thursday": {
+          "closed": false,
+          "open": 28800,
+          "close": 57600
+        },
+        "friday": {
+          "closed": false,
+          "open": 28800,
+          "close": 57600
+        },
+        "saturday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        }
+      }
+    },
+    {
+      "id": "0317",
+      "building_id": "143",
+      "name": "Second Cup Koffler",
+      "short_name": "koffler_second_cup",
+      "description": "Looking for something sweet to eat? Second Cup has what you need! Accompany your sweet treat or snack with our fair trade coffee and tea. If you’re on the go, Second Cup has got you covered.",
+      "url": "https://secondcup.com/en/location/u-of-t-koffler-centre/",
+      "tags": [
+        "second cup",
+        "coffee",
+        "snacks",
+        "cookies",
+        "muffins"
+      ],
+      "image": "http://dev.ueat.utoronto.ca/wp-content/uploads/2015/06/Koffler_second_cup.jpg",
+      "campus": "UTSG",
+      "lat": 43.65912,
+      "lng": -79.3969,
+      "address": "214 College Street, Toronto, ON M5T 2Z9",
+      "hours": {
+        "sunday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "monday": {
+          "closed": false,
+          "open": 25200,
+          "close": 64800
+        },
+        "tuesday": {
+          "closed": false,
+          "open": 25200,
+          "close": 64800
+        },
+        "wednesday": {
+          "closed": false,
+          "open": 25200,
+          "close": 64800
+        },
+        "thursday": {
+          "closed": false,
+          "open": 25200,
+          "close": 64800
+        },
+        "friday": {
+          "closed": false,
+          "open": 25200,
+          "close": 64800
+        },
+        "saturday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        }
+      }
+    },
+    {
+      "id": "0318",
+      "building_id": "040",
+      "name": "Goodmans LLP Cafe at Law",
+      "short_name": "law_cafe",
+      "description": "Goodmans LLP Café at the brand new Faculty of Law building, features a menu of gourmet sandwiches, salads, handmade quiches and crepes, and homemade baked goods. There are also plenty of fresh Grab ‘N’ Go options plus Blue Dragon Coffee.",
+      "url": "http://www.ueat.utoronto.ca",
+      "tags": [
+        "snacks",
+        "coffee"
+      ],
+      "image": "https://img.restaurantguru.com/w400/rf81-Goodmans-LLP-Cafe-exterior.jpg",
+      "campus": "UTSG",
+      "lat": 43.66575,
+      "lng": -79.39417,
+      "address": "78 Queen's Park, Toronto, ON M5S 1K7",
+      "hours": {
+        "sunday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "monday": {
+          "closed": false,
+          "open": 32400,
+          "close": 61200
+        },
+        "tuesday": {
+          "closed": false,
+          "open": 32400,
+          "close": 61200
+        },
+        "wednesday": {
+          "closed": false,
+          "open": 32400,
+          "close": 633600
+        },
+        "thursday": {
+          "closed": false,
+          "open": 32400,
+          "close": 61200
+        },
+        "friday": {
+          "closed": false,
+          "open": 32400,
+          "close": 61200
+        },
+        "saturday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        }
+      }
+    },
+    {
+      "id": "0319",
+      "building_id": "078",
+      "name": "McLennan Express",
+      "short_name": "mclennan_express",
+      "description": "Never go hungry on campus again. If you’re just passing through the McLennan building and you feel your stomach grumbling, stop by the Grab’N’Go for some fruit, baked goods, coffee and more!",
+      "url": "https://ueat.utoronto.ca/mclennan-express/",
+      "tags": [
+        "coffee",
+        "fruit",
+        "snacks",
+        "sandwiches",
+        "chips"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-p/11/b1/43/ff/photo0jpg.jpg",
+      "campus": "UTSG",
+      "lat": 43.66092,
+      "lng": -79.39857,
+      "address": "255 Huron St, Toronto, ON M5S 3J1",
+      "hours": {
+        "sunday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "monday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "tuesday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "wednesday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "thursday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "friday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "saturday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        }
+      }
+    },
+    {
+      "id": "0320",
+      "building_id": "005",
+      "name": "Medical Sciences Building Cafeteria",
+      "short_name": "medical_sciences_building_cafeteria",
+      "description": "This full cafeteria includes Not Just Greens, Soup!, Sambal, Stone Oven Pizzeria, Za'atar and a selection of Grab 'n Go foods.\n",
+      "url": "https://ueat.utoronto.ca/msb-cafeteria/",
+      "tags": [
+        "pizza",
+        "snacks",
+        "coffee",
+        "salad",
+        "sandwiches",
+        "soup",
+        "middle eastern cuisine",
+        "asian cuisine"
+      ],
+      "image": "https://www.uc.edu/campus-life/food/locations-hours/medical-regional/_jcr_content/main/textimage_49694642/image.img.jpeg/1576562252368/campusviewcafe-interior-06132006n.jpeg",
+      "campus": "UTSG",
+      "lat": 43.6607,
+      "lng": -79.39265,
+      "address": "1 King's College Circle, Toronto, ON M5S 1A8",
+      "hours": {
+        "sunday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "monday": {
+          "closed": false,
+          "open": 32400,
+          "close": 61200
+        },
+        "tuesday": {
+          "closed": false,
+          "open": 32400,
+          "close": 61200
+        },
+        "wednesday": {
+          "closed": false,
+          "open": 32400,
+          "close": 61200
+        },
+        "thursday": {
+          "closed": false,
+          "open": 32400,
+          "close": 61200
+        },
+        "friday": {
+          "closed": false,
+          "open": 32400,
+          "close": 61200
+        },
+        "saturday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        }
+      }
+    },
+    {
+      "id": "0321",
+      "building_id": "005",
+      "name": "Starbucks Medical Sciences Building",
+      "short_name": "medical_sciences_building_starbucks",
+      "description": "From Tazo teas to a range of coffees, Starbucks has got your back. If you’re looking for a light snack, this Starbucks location has a large variety of delicious pastries, snacks and sandwiches.",
+      "url": "https://ueat.utoronto.ca/starbucks_msb/",
+      "tags": [
+        "starbucks",
+        "coffee",
+        "snacks",
+        "muffins",
+        "cookies",
+        "free trade"
+      ],
+      "image": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-87322.png",
+      "campus": "UTSG",
+      "lat": 43.66079,
+      "lng": -79.39277,
+      "address": "1 King's College Circle, Toronto, ON M5S 1A8",
+      "hours": {
+        "sunday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "monday": {
+          "closed": false,
+          "open": 28800,
+          "close": 61200
+        },
+        "tuesday": {
+          "closed": false,
+          "open": 28800,
+          "close": 61200
+        },
+        "wednesday": {
+          "closed": false,
+          "open": 28800,
+          "close": 61200
+        },
+        "thursday": {
+          "closed": false,
+          "open": 28800,
+          "close": 61200
+        },
+        "friday": {
+          "closed": false,
+          "open": 28800,
+          "close": 59400
+        },
+        "saturday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        }
+      }
+    },
+    {
+      "id": "0322",
+      "building_id": "005",
+      "name": "Tim Hortons Medical Sciences Building",
+      "short_name": "medical_sciences_building_tim_hortons",
+      "description": "Located in the North end of MSB, this coffee kiosk serves donuts, baked goods, coffee and tea. \n",
+      "url": "https://ueat.utoronto.ca/tim-hortons-msb/",
+      "tags": [
+        "donut",
+        "coffee",
+        "tea",
+        "cookies"
+      ],
+      "image": "https://s3-media0.fl.yelpcdn.com/bphoto/iE6dFkHpsO8x-Ysg2QirWA/l.jpg",
+      "campus": "UTSG",
+      "lat": 43.66105,
+      "lng": -79.39397,
+      "address": "1 King's College Circle, Toronto, ON M5S 1A8",
+      "hours": {
+        "sunday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "monday": {
+          "closed": false,
+          "open": 28800,
+          "close": 61200
+        },
+        "tuesday": {
+          "closed": false,
+          "open": 28800,
+          "close": 61200
+        },
+        "wednesday": {
+          "closed": false,
+          "open": 28800,
+          "close": 61200
+        },
+        "thursday": {
+          "closed": false,
+          "open": 28800,
+          "close": 61200
+        },
+        "friday": {
+          "closed": false,
+          "open": 28800,
+          "close": 54000
+        },
+        "saturday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        }
+      }
+    },
+    {
+      "id": "0355",
+      "building_id": "080",
+      "name": "The Cube",
+      "short_name": "the_cube",
+      "description": "Looking for a hearty salad or a deliciously toasted sandwich? That’s The Cube’s specialty! They make fresh sandwiches and assemble your salad right before your eyes. Come check it out! We’ve got a salad with your name on it.",
+      "url": "https://ueat.utoronto.ca/the-cube/",
+      "tags": [
+        "coffee",
+        "soup",
+        "snacks"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1d/45/9a/f5/cube-restaurant-stuttgart.jpg",
+      "campus": "UTSG",
+      "lat": 43.65927,
+      "lng": -79.39771,
+      "address": "40 St. George Street, Toronto, ON M5S 2E4",
+      "hours": {
+        "sunday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "monday": {
+          "closed": false,
+          "open": 28800,
+          "close": 61200
+        },
+        "tuesday": {
+          "closed": false,
+          "open": 28800,
+          "close": 61200
+        },
+        "wednesday": {
+          "closed": false,
+          "open": 28800,
+          "close": 61200
+        },
+        "thursday": {
+          "closed": false,
+          "open": 28800,
+          "close": 61200
+        },
+        "friday": {
+          "closed": false,
+          "open": 28800,
+          "close": 61200
+        },
+        "saturday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        }
+      }
+    },
+    {
+      "id": "0359",
+      "building_id": "145",
+      "name": "VEDA Multi-Faith Centre",
+      "short_name": "veda_multifaith_centre",
+      "description": "Located on the ground floor of the Koffler House, Multi-Faith Centre at the corner of Spadina Crescent and Bancroft Ave. Catering available (416-961-9797). Menu includes hot meals and snacks like curries & samosas. Halal & Vegan options available. \n",
+      "url": "https://ueat.utoronto.ca/multi-faith-centre-veda/",
+      "tags": [
+        "halal",
+        "vegan",
+        "indian",
+        "curry",
+        "samosa",
+        "multifaith"
+      ],
+      "image": "https://static.wixstatic.com/media/11062b_e6282175464c4e93a5e38965bef1c361~mv2.jpg/v1/fill/w_1148,h_1470,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_e6282175464c4e93a5e38965bef1c361~mv2.jpg",
+      "campus": "UTSG",
+      "lat": 43.66069,
+      "lng": -79.4005,
+      "address": "569 Spadina Crescent, Toronto, ON M5S 2T4",
+      "hours": {
+        "sunday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "monday": {
+          "closed": false,
+          "open": 39600,
+          "close": 52200
+        },
+        "tuesday": {
+          "closed": false,
+          "open": 39600,
+          "close": 52200
+        },
+        "wednesday": {
+          "closed": false,
+          "open": 39600,
+          "close": 52200
+        },
+        "thursday": {
+          "closed": false,
+          "open": 39600,
+          "close": 52200
+        },
+        "friday": {
+          "closed": false,
+          "open": 39600,
+          "close": 50400
+        },
+        "saturday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        }
+      }
+    },
+    {
+      "id": "0361",
+      "building_id": "032A",
+      "name": "New College Dining Hall",
+      "short_name": "new_college_dining_hall",
+      "description": "This all-you-care-to-eat dining hall serves a variety of fresh meals daily!",
+      "url": "https://ueat.utoronto.ca/new_college_dining_hall/",
+      "tags": [
+        "buffet",
+        "all you care to eat",
+        "new college",
+        "breakfast",
+        "lunch",
+        "dinner",
+        "dining hall"
+      ],
+      "image": "https://www.newcollege.utoronto.ca/wp-content/uploads/dining-hall-4-1.jpg",
+      "campus": "UTSG",
+      "lat": 43.66179,
+      "lng": -79.40097,
+      "address": "40 Willcocks Street, Toronto, ON M5S 1C6",
+      "hours": {
+        "sunday": {
+          "closed": false,
+          "open": 30600,
+          "close": 72000
+        },
+        "monday": {
+          "closed": false,
+          "open": 25200,
+          "close": 79200
+        },
+        "tuesday": {
+          "closed": false,
+          "open": 25200,
+          "close": 79200
+        },
+        "wednesday": {
+          "closed": false,
+          "open": 25200,
+          "close": 79200
+        },
+        "thursday": {
+          "closed": false,
+          "open": 25200,
+          "close": 79200
+        },
+        "friday": {
+          "closed": false,
+          "open": 25200,
+          "close": 72000
+        },
+        "saturday": {
+          "closed": false,
+          "open": 30600,
+          "close": 72000
+        }
+      }
+    },
+    {
+      "id": "0363",
+      "building_id": "123",
+      "name": "OISE Café",
+      "short_name": "oise_cafe",
+      "description": "This café is located on the main level, in the lobby of OISE. Offerings include coffee and tea, Grab'N'Go sandwiches, salads, baked goods, confectionary and a variety of beverages.\n\n*12th Floor Nexus Lounge is closed. ",
+      "url": "https://ueat.utoronto.ca/oise-cafe/",
+      "tags": [
+        "oise",
+        "coffee",
+        "sandwiches",
+        "snacks",
+        "grabngo"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/9d/16/cd/osmoz-cafe-centre-commercial.jpg",
+      "campus": "UTSG",
+      "lat": 43.66877,
+      "lng": -79.3989,
+      "address": "252 Bloor St. West, Toronto, ON M5S 1V6",
+      "hours": {
+        "sunday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        },
+        "monday": {
+          "closed": false,
+          "open": 28800,
+          "close": 68400
+        },
+        "tuesday": {
+          "closed": false,
+          "open": 28800,
+          "close": 68400
+        },
+        "wednesday": {
+          "closed": false,
+          "open": 28800,
+          "close": 68400
+        },
+        "thursday": {
+          "closed": false,
+          "open": 28800,
+          "close": 68400
+        },
+        "friday": {
+          "closed": false,
+          "open": 28800,
+          "close": 55800
+        },
+        "saturday": {
+          "closed": true,
+          "open": 0,
+          "close": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Favourite Food</string>
+    <string name="map_view">Map View</string>
+    <string name="food_image_view">Food Image View</string>
+    <string name="food_title">Food Title</string>
+    <string name="food_content">Food Content</string>
+    <string name="favourite">Favourite</string>
+    <string name="food_address">Food Address</string>
+    <string name="food_location_view">Food Location View</string>
+    <string name="text_view">Text View</string>
+    <string name="button">Button</string>
+    <string name="image">Image</string>
+    <string name="start">Start</string>
+    <string name="about_us">About us</string>
+</resources>
